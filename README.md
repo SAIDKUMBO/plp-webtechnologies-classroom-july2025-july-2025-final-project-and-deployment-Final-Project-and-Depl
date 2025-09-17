@@ -1,90 +1,71 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+🚚 Safirisha Company Limited Website
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
+Safirisha Company Limited is a trusted logistics partner specializing in the seamless movement of goods both within and across borders. This project is a professional company website built with HTML, CSS, and JavaScript to showcase services, company information, and contact options.
 
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
+🌍 Features
 
----
+Responsive Design – Works smoothly on desktop, tablet, and mobile.
 
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
+Navigation Bar – Includes smooth scrolling and active section highlighting.
 
-Before you write any code, take time to plan:
+Hero Section – Catchy company tagline and CTA button.
 
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
+Services Section – Clear presentation of all services offered.
 
-**Goal:** Show intentional structure and user journey across the site.
+About Section – Short company profile and mission.
 
----
+Contact Section – Email, phone, address, and social media links.
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
+Interactive Form – Users can send inquiries directly.
 
-Using your plan, begin building:
+Mobile Burger Menu – Easy navigation on smaller screens.
 
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
+🛠️ Technologies Used
 
-Each page should:
+HTML5 – Page structure
 
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
+CSS3 – Styling and responsiveness
 
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+JavaScript (ES6) – Interactivity and navigation effects
 
----
+Google Fonts – Modern typography
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
+📂 Project Structure
+project-folder/
+│── index.html       # Main HTML file
+│── styles.css       # Stylesheet
+│── script.js        # JavaScript for interactivity
+│── README.md        # Project documentation
 
-Before deployment, refactor your project to follow production-friendly practices:
+🚀 Getting Started
 
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
+Clone or download this repository.
 
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
+git clone https://github.com/SAIDKUMBO/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl.git
 
----
 
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
+Open index.html in your browser.
 
-Once your project is complete, choose a method to **host your site online**.
+Customize company details in the HTML and CSS files as needed.
 
-You can use:
+📸 Preview
 
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
+(Optional: Add a screenshot of your site here once hosted)
 
-Deploy your project and confirm that:
+📞 Contact
 
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
+Safirisha Company Limited
 
-**Goal:** Publish your work online and make it accessible to the world.
+📧 Email: kumbosaid22@gmail.com
 
----
+📞 Phone: +254 110445973
 
-## Deliverables
+📍 Location: Nairobi, Kenya
 
-1. A GitHub repository containing:
+🔗 LinkedIn
+ | Instagram
 
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
+⚖️ License
 
----
-
-## Outcome
-
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+This project is open source and available under the MIT License
+.
